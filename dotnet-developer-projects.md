@@ -46,8 +46,8 @@ Please sort projects alphabetically and provide a one-line description. GitHub/C
 ## Security / Identity Management
   * [NWebsec](https://github.com/NWebsec/NWebsec) - Security headers for ASP.NET applications.
   * [IdentityManager](https://github.com/IdentityManager/IdentityManager)
-  * [IdentityServer](https://github.com/IdentityServer/IdentityServer3)
-  * [SKGL - Serial Key Generating Library](https://skgl.codeplex.com/)
+  * [IdentityServer](https://github.com/IdentityServer/IdentityServer4) - OpenID Connect and OAuth 2.0 Framework for ASP.NET Core
+  * [SKGL - Serial Key Generating Library](https://skgl.codeplex.com/)
 
 ## Web CMS
   * [Composite C1](https://github.com/Orckestra/C1-CMS) - Web content management platform (CMS).
